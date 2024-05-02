@@ -1,5 +1,6 @@
+__all__ = ["LECSS", "data_processing", "figures", "skinsen"]
 
-https://github.com/katie-bw/kvb/edit/main/kvb/LECSS.py
-https://github.com/katie-bw/kvb/edit/main/kvb/data_processing.py
-https://github.com/katie-bw/kvb/edit/main/kvb/figures.py
-https://github.com/katie-bw/kvb/edit/main/kvb/skinsen.py
+from kvb import LECSS
+from kvb import data_processing 
+from kvb import figures 
+from kvb import skinsen
