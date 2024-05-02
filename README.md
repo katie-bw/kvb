@@ -16,4 +16,3 @@ Functions for the Local Exploration of Chemical Space using SELFIES (LECSS) work
  
 ### skinsen
 
-Functions for the work exploring molecular counterfactuals and whether they can elucidate known structural alerts 
